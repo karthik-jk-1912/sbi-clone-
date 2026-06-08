@@ -1,0 +1,6 @@
+{
+  "name": "SBI Net Banking",
+  "description": "Personal Net Banking clone of State Bank of India featuring login, beneficiary registers, transfers, and transaction statements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
